@@ -1,2 +1,3 @@
 ESP32-Blink
-Sam D'Hauwers en Jens Paelman
+Member1: Sam D'Hauwers
+Member2: Jens Paelman
