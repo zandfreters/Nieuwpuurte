@@ -1,11 +1,12 @@
 #include <Arduino.h>
+#include <Blink.h>
 
-Blink myBlinker(LED_BUILTIN);
+Blink myBlinker(2);
 
 void setup(){
 
 }
 
 void loop(){
-  myblinker.now();
+  myBlinker.now();
 }
