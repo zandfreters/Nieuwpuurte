@@ -1,2 +1,2 @@
 Blink   KEYWORD1
-now     KEYWORD2
+now KEYWORD2
